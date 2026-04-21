@@ -1,0 +1,7 @@
+Machine Learning is a field of AI that allows systems to learn from data.
+
+RAG stands for Retrieval Augmented Generation.
+
+FAISS is used for fast similarity search in vector databases.
+
+LangChain helps build LLM applications easily.
